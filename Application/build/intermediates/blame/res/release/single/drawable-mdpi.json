@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/anantoni/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/res/merged/release/drawable-mdpi/ic_launcher.png",
+        "source": "/home/anantoni/AndroidStudioProjects/Camera2Basic/Application/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/anantoni/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/res/merged/release/drawable-mdpi/ic_action_info.png",
+        "source": "/home/anantoni/AndroidStudioProjects/Camera2Basic/Application/src/main/res/drawable-mdpi/ic_action_info.png"
+    }
+]
