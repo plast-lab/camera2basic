@@ -71,6 +71,10 @@ android {
 }
 
 doop {
+  host = 'localhost'
+  port = 1234
+  username = 'user'
+  password = 'password'
   annotationsVersion = "24.1.1"
   subprojectName = "Application"
   buildType = "debug"
