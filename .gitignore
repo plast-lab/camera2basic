@@ -1,3 +1,5 @@
 .gradle
 .gradletasknamecache
 Application/R-class
+*~
+Application/build
