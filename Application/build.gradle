@@ -3,13 +3,13 @@ buildscript {
     repositories {
     mavenLocal()
     jcenter()
-        maven {                                                                                                                                                                       
-            url 'http://centauri.di.uoa.gr:8081/artifactory/all-snapshot'                                                                                                             
-            credentials {                                                                                                                                                             
-                username = "${artifactory_user}"                                                                                                                                      
-                password = "${artifactory_password}"                                                                                                                                  
-            }                                                                                                                                                                         
-        }    
+        maven {
+	    url "${artifactory_contextUrl}/plast"
+	    credentials {
+		username artifactory_user
+		password artifactory_password
+	    }
+	}
     }
 
     dependencies {
